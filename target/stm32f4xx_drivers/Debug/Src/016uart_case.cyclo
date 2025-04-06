@@ -1,0 +1,6 @@
+../Src/016uart_case.c:27:6:USART2_Init	1
+../Src/016uart_case.c:39:6:USART2_GPIOInit	1
+../Src/016uart_case.c:57:6:delay	2
+../Src/016uart_case.c:62:5:main	4
+../Src/016uart_case.c:110:6:USART2_IRQHandler	1
+../Src/016uart_case.c:115:6:USART_ApplicationEventCallback	2
